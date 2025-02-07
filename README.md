@@ -27,3 +27,5 @@ https://github.com/user-attachments/assets/50578661-fac5-4d1c-84ef-cc589b33d117
 ### 💤 Close Positions
 
 Telegram Contact - https://t.me/martingrace2
+
+Discord Contact - @martingrace2

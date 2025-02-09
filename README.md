@@ -2,10 +2,9 @@
 # 🌟 MEXC-Futures-API -- Hacked 100% working code
 
 "Maintenance Issue" - This is a big lie by MEXC. They just want to restrict retail traders. 
-The below code is 100% safe. It uses advanced cryptography techniques to simulate p0, k0,
-chash, mhash, mtoken to make the server believe the orders are coming from browser.
+The below code is 100% safe. It uses advanced cryptography techniques to bypass API restrictions.
 
-The code also works to unlock all Spot pairs including BTC_USDT which is not allowed via official API
+The code also works to unlock all Spot pairs including BTC_USDT
 
 ```
 
